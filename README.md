@@ -9,7 +9,7 @@ This is Module 5 of 5 of the [12‑week Security Architect Program](https://gith
 * #### Simulate AI breaches and build IR playbooks
 
 #### Deliverables:
-* AI Monitoring & IR Repo + AI Incident Response Playbook: [Link to walkthrough](https://github.com/epatter1/Threat_Lab_Repo_and_AI_Risk_Assessement/blob/main/Walkthrough.md)
+* AI Monitoring & IR Repo + AI Incident Response Playbook: [Link to walkthrough](https://github.com/epatter1/Monitoring_IR_Repo_and_AI-Incident_Response_Playbook/blob/main/Walkthough.md)
 
 ---
 
